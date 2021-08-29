@@ -1,2 +1,2 @@
 # cv
-webite to my personal portfolio
+website to my personal portfolio
